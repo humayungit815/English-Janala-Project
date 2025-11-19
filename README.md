@@ -22,4 +22,4 @@ This is a modern English Janala website showcasing my projects and skills. Built
 ## 🚀 Getting Started
 1. Clone the repo  
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/humayungit815/English-Janala-Project.git
